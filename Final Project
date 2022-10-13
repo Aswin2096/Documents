@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Stylesheets-->
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
+
+    <title>Home | Blogception.com</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="Blog.html"><img src="css/Logo.jpg" alt="Blogception logo"></a>
+        </div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="contact.php">Contact</a>
+            <a href="about.html">About</a>
+        </nav>
+        <hr>
+    </header>
+    <main>
+        <h1 align="center">Berita Yang Lagin Hot</h1>
+        <h2 align="center">Most Recent Article</h2>
+        <p>Berita yang pertama, Dugaan Penistaan Agama yang Dilakukan Penggugat Ijazah Jokowi. To read more <a href="https://news.detik.com/berita/d-6346826/ini-dugaan-penistaan-agama-yang-dilakukan-penggugat-ijazah-jokowi">click here.</a></p>
+        <h2 align="center">2nd Most Recent Article</h2>
+        <p>Berita yang Kedua, Buron 3 Tahun, DPO Kasus Mafia Tanah Ditangkap di Jakbar. To read more <a href="https://news.detik.com/berita/d-6346799/buron-3-tahun-dpo-kasus-mafia-tanah-ditangkap-di-jakbar">click here.</a></p>
+        <h2 align="center">3rd Most Recent Articel</h2>
+        <p>Berita yang Ketiga, PSSI soal Kanjuruhan: Ketum Langsung ke Malang Bentuk Tanggung Jawab. To read more <a href="https://20.detik.com/detikflash/20221013-221013155/pssi-soal-kanjuruhan-ketum-langsung-ke-malang-bentuk-tanggung-jawab">click here.</a></p>
+    </main>
+    <aside>
+        <h3 align="center">Ads</h3>
+        <p> Cuman Buat iklan doang</p>
+        <h3 align="center">Contact Email</h3>
+        <a href="mailto:raka.arifin@mhs.unsoed.ac.id">raka.arifin@mhs.unsoed.ac.id</a>
+        <p>Tolong kasih saran dari ini.</p>
+        <h3 align="center"><u>Archives</u></h3>
+        <ul>
+            <li><a href="archives/january-2022.html">January 2022</a></li>
+            <li><a href="archives/december-2022.html">December 2022</a></li>
+        </ul>
+    </aside>
+    <footer>
+        <hr>
+        <p align="center">Copyright &copy; 2021-2022 Raka Aswin Arifin. Website Designed by <a href="mailto:raka.arifin@mhs.unsoed.ac.id">raka.arifin@mhs.unsoed.ac.id</a>.</p>
+    </footer>
+</body>
+</html>
